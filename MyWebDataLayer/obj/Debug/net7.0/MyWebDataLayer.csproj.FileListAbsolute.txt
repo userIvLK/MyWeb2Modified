@@ -1,0 +1,14 @@
+C:\Users\ivank\Desktop\MyWebDataLayer\bin\Debug\net7.0\MyWebDataLayer.deps.json
+C:\Users\ivank\Desktop\MyWebDataLayer\bin\Debug\net7.0\MyWebDataLayer.runtimeconfig.json
+C:\Users\ivank\Desktop\MyWebDataLayer\bin\Debug\net7.0\MyWebDataLayer.dll
+C:\Users\ivank\Desktop\MyWebDataLayer\bin\Debug\net7.0\MyWebDataLayer.pdb
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.csproj.AssemblyReference.cache
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.AssemblyInfoInputs.cache
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.AssemblyInfo.cs
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.dll
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\refint\MyWebDataLayer.dll
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.pdb
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\MyWebDataLayer.genruntimeconfig.cache
+C:\Users\ivank\Desktop\MyWebDataLayer\obj\Debug\net7.0\ref\MyWebDataLayer.dll
