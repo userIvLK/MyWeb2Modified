@@ -5,8 +5,8 @@ namespace MyWebDataLayer.Repository
 {
     public class ItemRepository : IItemRepository
     {
-        DbContext _context;
-        DbSet<Item> _dbSet;
+        readonly DbContext _context;
+        readonly DbSet<Item> _dbSet;
 
         public ItemRepository (DbContext context)
         {
