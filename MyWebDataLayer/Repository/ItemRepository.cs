@@ -24,8 +24,11 @@ namespace MyWebDataLayer.Repository
         public void Delete(Guid id)
         {
             Item? item = _dbSet.Find(id);
-            _dbSet.Remove(item);
-            _context.SaveChanges();
+            if (item == null)
+            {
+                _dbSet.Remove(item);
+                _context.SaveChanges();
+            }
         }
 
         public IEnumerable<Item> GetAll()
