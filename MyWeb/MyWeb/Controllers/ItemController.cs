@@ -32,12 +32,13 @@ namespace MyWeb.Controllers
             DbContext context = new MyWebDbContext();
             IItemRepository IRep = new ItemRepository(context);
             IEnumerable<Item> items = IRep.GetAll();
-            string res = "";
+            var res = new System.Text.StringBuilder();
             foreach (var s in items)
             {
-                res = res + s.Name + "\n";
+                res.Append(s.Name);
+                res.Append('\n');
             }
-            return res;
+            return res.ToString();
         }
 
         [HttpDelete(Name = "DeleteItemController")]
